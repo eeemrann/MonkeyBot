@@ -1,7 +1,6 @@
 # EduVision (formerly MonkeyBot)
 
-Welcome to **EduVision**, an innovative project dedicated to enhancing educational experiences through intelligent automation and modern technology.
-
+Welcome to **EduVision**, An AI-driven web application designed to convert academic content into organized and easy-to-use study resources.
 > **Note:** This project was previously named **MonkeyBot**. We are actively developing and evolving its capabilities under the new name.
 
 ## Project Overview
